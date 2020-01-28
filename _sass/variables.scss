@@ -16,14 +16,14 @@ $base-font-weight: 700 !default;
 $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 $table-text-align: left !default;
-$grey-color:       #828282 !default;
+$grey-color:       #000000 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 $spacing-unit:     30px !default;
 
 $text-color:       rgba(39, 40, 44, 0.7) !default;
 $link_color:       #777;
-$title_color:      #27282c; 
+$title_color:      #27282c;
 $bg-hover:         #ddd;
 $background-color: #fff !default;
 $active_color:     #333;
