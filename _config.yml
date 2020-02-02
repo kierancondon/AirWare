@@ -1,8 +1,8 @@
 title: 'AirWare'
 email: 'your-email@example.com'
 description: >- # this means to ignore newlines until "baseurl:"
-  Say something to the world.
-  Make a website and start publishing your content online in less than 5 minutes, for free.
+  Create documentation, a blog, publish a book, or showcase a portfolio.
+  Make a free website and start publishing your content online in less than 5 minutes, for free.
 baseurl: "/AirWare" # the subpath of your site, e.g. /blog
 url: "https://kierancondon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kierancondon
