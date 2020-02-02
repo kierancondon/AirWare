@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Template for making a new post
+title: Editing with Atom
 description:
-categories: [test1, test2]
-tags: [tag1, tag2]
+categories: [B) Create content]
+tags:
 titles:
   - Page name
   - The second header
