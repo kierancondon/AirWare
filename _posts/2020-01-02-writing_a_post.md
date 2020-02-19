@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Test
 description:
 categories: [B) Create content]
 tags:
