@@ -8,6 +8,8 @@ url: "https://kierancondon.github.io" # the base hostname & protocol for your si
 twitter_username: kierancondon
 github_username:  kierancondon
 
+permalink: /:title:output_ext #/:year/:month/:day/:title:output_ext
+
 # Build settings
 #theme: minima
 #plugins:
