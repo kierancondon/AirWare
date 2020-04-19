@@ -2,7 +2,7 @@
 layout: post
 title: Filtering content in numerous ways
 description:
-categories: [C) AirWare: Left sidebar]
+categories: [C) AirWare Left sidebar]
 tags:
 titles:
   - Page name

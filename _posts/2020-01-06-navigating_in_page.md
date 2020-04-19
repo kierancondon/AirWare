@@ -2,7 +2,7 @@
 layout: post
 title: Template for making a new post
 description:
-categories: [C) AirWare: Right sidebar]
+categories: [C) AirWare Right sidebar]
 tags:
 titles:
   - Page name
